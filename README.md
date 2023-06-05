@@ -1,12 +1,10 @@
 # RSA-Factoring-Challenge
 
-![RSA-Image](images/RSA-img.JPG)
 
 ## Description
 
 This project is designed to factorize as many numbers as possible into a product of two smaller numbers.
-It works perfectly for that except the case of bignums (numbers bigger than long long unsigned integers)
-please any contribution towards making this project work for bignums will be highly appreciated.
+It help me to filly understand the logic behind some of the most advance encryptiob/decription algorithms ever created by mathematicians and calculated/implemented by developers.
 
 ## Information
 
@@ -88,7 +86,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 
 ## Author
 
-[David Atat](www.github.com/daveeazi)
+[ugoMusk](www.github.com/ugoMusk)
 
 ## Resources
 
